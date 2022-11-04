@@ -1,7 +1,8 @@
 quandl
 matplotlib
 numpy
-fbprophet
-pystan
+fbprophet==0.6
+pystan==2.19.1.1
+prophet
 pandas
 pytrends
